@@ -1,0 +1,5 @@
+1 make branch 
+2 copy branch
+3 push new branch
+4 check conection
+5 remove repository connect
